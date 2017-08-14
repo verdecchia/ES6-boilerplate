@@ -14,6 +14,10 @@
     "lint": "node_modules/.bin/esw webpack.config.js app --color",
     "lint:watch": "npm run lint -- --watch"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verdecchia/ES6-boilerplate.git"
+  },
   "keywords": [
     "ES6",
     "javascript",
@@ -24,6 +28,10 @@
   ],
   "author": "Marco Verdecchia",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/verdecchia/ES6-boilerplate/issues"
+  },
+  "homepage": "https://github.com/verdecchia/ES6-boilerplate#readme",
   "devDependencies": {
     "babel-core": "^6.25.0",
     "babel-loader": "^7.1.1",
