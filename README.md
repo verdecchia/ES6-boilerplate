@@ -2,6 +2,12 @@
 
 ES6 boilerplate configured with npm, babel, webpack2 and eslint based on google javascript style guide. INSTALL.md contains all instructions used to forge the boilerplate project.
 
+<img src= "img/ecmascript6.jpg" height=50>
+<img src= "img/npm.svg" width=100>
+<img src= "img/babel.svg" width=100>
+<img src= "img/webpack.png" height=50>
+<img src="img/eslint.png" height=50>
+
 ## Install
 
 run `npm install` on root directory
